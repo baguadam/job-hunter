@@ -1,0 +1,30 @@
+.wrapper {
+  margin: 25px;
+  box-shadow: 7px 7px 5px darkgray;
+}
+
+.form-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  padding: 20px;
+  width: 40%;
+}
+
+.header-wrapper {
+  padding: 30px;
+  background-color: #d2d3d3;
+}
+
+.error-wrapper {
+  padding: 30px;
+  font-size: 1.1em;
+  color: red;
+}
+
+h1 {
+  margin: 0px;
+}

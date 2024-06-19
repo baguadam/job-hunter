@@ -1,0 +1,9 @@
+.wrapper {
+  margin: 25px;
+  box-shadow: 7px 7px 5px darkgray;
+}
+
+.header-wrapper {
+  padding: 30px;
+  background-color: #d2d3d3;
+}
